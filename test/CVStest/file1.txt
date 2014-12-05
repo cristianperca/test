@@ -1,2 +1,4 @@
 This is the contents
 of file 1.
+
+Add one line to file1
